@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(9, 57, 98) !important;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+article {
+  background-color: white;
+  width: 470px;
+  margin: auto;
+  margin-bottom: 20px;
+  direction: rtl;
+  padding: 10px;
+}
+
+article:hover {
+  outline: black 1px solid;
+}
+
+img {
+  border-radius: 50%;
+  width: 62px;
+  height: 61px;
+  position: absolute;
+}
+
+main {
+  padding: 50px;
+  width: 50%;
+  margin: auto;
+}
+
+label {
+  width: 25%;
+  font-weight: bolder;
+}
+
+input {
+  width: auto;
+  padding: 4px;
+}
+
+a {
+  font-weight: bold;
+}
+
+iframe {
+  background-color: rgb(255, 255, 255);
+}
+
+.icon-logo {
+  margin: 15px;
+  text-align: right !important;
+  width: auto;
+}
+
+.navbar-brand {
+  font-size: 1.8rem !important;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-link {
+  font-weight: bold !important;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+}
+
+.nav-link:hover {
+  color: white !important;
+}
+
+.bg-red {
+  background-color: #ad0000;
+}
+
+.TimeZone {
+  font-weight: 600;
+  margin-right: 70px;
+  margin-bottom: 20px;
+}
+
+.title-article {
+  margin-right: 70px;
+  font-size: 20px;
+  font-weight: bold;
+}
